@@ -2,40 +2,64 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Hello World FROM FOX</title>
-    <!-- Add some CSS to change client UI -->
-    <!-- STYLE ONLY ALLOWS US TO TYPE CSS BECAUSE THE BROWSER KNOWS THAT THE WAY TO STYLE 
-        IS WITH CSS
-
-    WRITING CSS IS SAD 
-    
-    :'(
-
-    
-     )' -->
-    <p>write something </p>
-    <h2> heading something level 2</h2>
+    <title>Fullstack Web App</title>
     <style>
-    body {
-        background-color: #232F3E;
+        body {
+            background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg");
+            background-size: cover;
+            background-position: center;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+            color: #FF9900;
         }
-    label, button {
-        color: #FF9900;
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 20px;
-        margin-left: 40px;
+        #form-container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+            height: 100vh;
+            padding: 0 20px;
+            box-sizing: border-box;
         }
-     input {
-        color: #232F3E;
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 20px;
-        margin-left: 20px;
+        label, input, button {
+            margin: 10px 0;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #FF9900;
+            border: none;
+            color: #232F3E;
+            padding: 10px;
+            cursor: pointer;
+        }
+        #subtitle {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            padding: 10px;
+            background-color: rgba(35,47,62,0.7);
+            text-align: center;
         }
     </style>
-    <h1>
-    "Hello world on heading" <!-- WE WRITE CONTENT HERE! THIS IS THE HEADING 1-->    
-    </h1>
-    <!-- BELOW "SCRIPT" WE CAN ONLY WRITE JAVASCRIPT TO MAKE THINGS DYNAMICISH -->    
+</head>
+<body>
+    <div id="form-container">
+        <h1>Hello world on heading</h1>
+        <form>
+            <label>First Name:</label>
+            <input type="text" id="fName">
+            <label>Last Name:</label>
+            <input type="text" id="lName">
+            <label>Title:</label>
+            <input type="text" id="title">
+            <button type="button" onclick="callAPI(document.getElementById('fName').value,document.getElementById('lName').value,document.getElementById('title').value)">Call API</button>
+        </form>
+    </div>
+    <div id="subtitle">
+        Thank you my brothers!
+    </div>
     <script>
         // define the callAPI function that takes a first name and last name as parameters
         var callAPI = (firstName,lastName,title)=>{
@@ -59,18 +83,5 @@
             .catch(error => console.log('error', error));
         }
     </script>
-</head>
-<body>
-    <form>
-        <label>First Name :</label>
-        <input type="text" id="fName">
-        <label>Last Name :</label>
-        <input type="text" id="lName">
-        <label>title :</label>
-        <input type="text" id="title">
-        
-        <!-- set button onClick method to call function we defined passing input values as parameters -->
-        <button type="button" onclick="callAPI(document.getElementById('fName').value,document.getElementById('lName').value,document.getElementById('title').value)">Call API</button>
-    </form>
 </body>
 </html>
