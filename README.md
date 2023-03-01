@@ -9,23 +9,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="JavaScript logo" width="200" height="200">
 
 ##
-##
-#
-#
-###
-###
-####
-####
-#####
-#####
 
-check readme and change
-
-##
-
-##
-##
-##
 This is the first colaboration made between [dfoux] (https://github.com/dfoux) and [AndrewWigginCout] (https://github.com/AndrewWigginCout) to develop and implement a fullstack web app in AWS..
 
 The webpage can be found here: https://devtest.d35c6q303qkv2e.amplifyapp.com
