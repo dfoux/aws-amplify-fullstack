@@ -10,7 +10,7 @@
 
 ##
 
-This is the first colaboration made between [dfoux] (https://github.com/dfoux) and [AndrewWigginCout] (https://github.com/AndrewWigginCout) to develop and implement a fullstack web app in AWS..
+This is the first colaboration made between [AndrewWigginCout] (https://github.com/AndrewWigginCout) and[dfoux] (https://github.com/dfoux) to develop and implement a fullstack web app in AWS..
 
 The webpage can be found here: https://devtest.d35c6q303qkv2e.amplifyapp.com
 
