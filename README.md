@@ -1,7 +1,9 @@
-![](https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/logo-ESTB.png)
-![](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 # | LB11 | PAB2023 | 00943 |
 # Exercise 1
+
+<img src="https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/logo-ESTB.png" alt="ESTB logo" width="200" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="200" height="200">
+
 
 ##
 ##
