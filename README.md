@@ -1,9 +1,12 @@
-# | LB11 | PAB2023 | 00943 |
-# Exercise 1
+# | Full Stack Web App | JS, CSS, HTML & Python | AWS Amplify |
+# AndrewWigginCout & dfoux
 
 <img src="https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/logo-ESTB.png" alt="ESTB logo" width="200" height="200">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="200" height="200">
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="JavaScript logo" width="200" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="JavaScript logo" width="200" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="JavaScript logo" width="200" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="JavaScript logo" width="200" height="200">
 
 ##
 ##
