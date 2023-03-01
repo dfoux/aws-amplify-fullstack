@@ -1,3 +1,39 @@
+MD final recommended version:
+
+# Full Stack Web App using JS, CSS, HTML & Python on AWS Amplify
+
+[AndrewWigginCout](https://github.com/AndrewWigginCout) and [dfoux](https://github.com/dfoux) collaborated to develop and implement a full-stack web app on AWS. The resulting project contains XX HTML, XX Python, and XX Markdown files.
+
+| <img src="https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/logo-ESTB.png" alt="ESTB logo" width="200" height="200"> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="200" height="200"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 logo" width="200" height="200"> |
+| :---: | :---: | :---: |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 logo" width="200" height="200"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python logo" width="200" height="200"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="AWS logo" width="200" height="200"> |
+
+The web page can be accessed [here](https://devtest.d35c6q303qkv2e.amplifyapp.com).
+
+## Collaborators
+- [AndrewWigginCout](https://github.com/AndrewWigginCout)
+- [dfoux](https://github.com/dfoux)
+
+##
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+##
+
+MD previous version looks like:
+
+
 # | Full Stack Web App | JS, CSS, HTML & Python | AWS Amplify |
 # AndrewWigginCout & dfoux
 
